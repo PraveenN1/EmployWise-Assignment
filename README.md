@@ -39,7 +39,6 @@ npm start
 ## Project Structure
 - `src/components/`: Reusable React components
 - `src/context/`: React Context providers
-- `src/hooks/`: Custom React hooks
 - `src/pages/`: Page components
 - `src/services/`: API and service logic
 - `src/utils/`: Utility functions
